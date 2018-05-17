@@ -1,13 +1,12 @@
 {
-  "name": "theme-starter",
-  "title": "Starer Theme",
-  "displayName": "Starer Theme",
+  "name": "mailspring-arc-darker",
+  "title": "Arc Darker",
+  "displayName": "Arc Darker",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
-  "license": "GPL-3.0",
+  "description": "An Arc Darker theme for Mailspring",
+  "license": "MIT",
   "engines": {
     "mailspring": "*"
   }
 }
-
